@@ -100,6 +100,7 @@ const seedUsers = [
   },
 ];
 
+
 const seedDatabase = async () => {
   try {
     await connectDB();
